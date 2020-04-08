@@ -1,0 +1,78 @@
+html{
+    height: 100%;
+}
+body{
+	background: url(reg.jpg);
+	background-size: cover; 
+   font-family: 'Josefin Sans', sans-serif; 
+}
+regform{
+		padding: 16px;
+
+}
+h{
+			 
+       border-bottom-left-radius: 5px;
+       border-bottom-right-radius: 5px;
+        padding: 68px 90px 30px 390px;
+        color: white;
+
+}
+label{
+	color:white;
+}
+.signin{
+	color:white;
+}
+
+p{
+	color:white;
+}
+.btn {
+  background-color: #4caf50;
+  color: white;
+  margin: 4px 4px;
+  border: 2px solid rgb(255, 255, 255);
+  cursor: pointer;
+  width: 20%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity:1;
+}
+.qw{
+	width: 500px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: white;
+
+  overflow: hidden;
+  font-size: 15px;
+  padding: 120px 30px 120 70px;
+  padding-right: 1px;
+  margin:  auto;
+  border: 2px solid #4caf50;
+
+
+
+}
+input [type="text"]
+{
+  color: black;
+}
+button, input, optgroup, select, textarea{
+  color: black;
+}
+
+
+ #mainNavbar .navbar-brand{
+  font-size:1.5rem;
+  color:white;
+}
+
+#mainNavbar .nav-link{
+  color: white;
+}
